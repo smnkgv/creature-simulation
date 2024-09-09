@@ -4,6 +4,14 @@ This project simulates a population of evolving creatures in a 2D grid-based env
 
 ---
 
+## Demo
+
+Here’s a demonstration of the simulation in action:
+
+[![Thumbnail](media/image.jpg)](https://www.youtube.com/watch?v=TXiBkSEfN9o)
+
+---
+
 ## Features
 
 - Creatures move in a 2D grid, search for food, and make decisions about movement and reproduction using neural networks.
@@ -76,16 +84,6 @@ This will launch the simulation window, where you can observe creatures moving a
 
 - The simulation runs automatically once started.
 - To stop the simulation, simply close the window or press `Ctrl + C` in the terminal.
-
----
-
-## Demo
-
-Here’s a demonstration of the simulation in action:
-
-![Simulation GIF](media/simulation.gif)
-
-Alternatively, you can [watch the video](https://www.youtube.com/watch?v=TXiBkSEfN9o) on YouTube.
 
 ---
 
