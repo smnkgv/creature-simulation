@@ -1,3 +1,5 @@
+[![Watch on YouTube](https://img.youtube.com/vi/TXiBkSEfN9o/maxresdefault.jpg)](https://www.youtube.com/watch?v=TXiBkSEfN9o)
+
 # Creature Simulation
 
 This project simulates a population of evolving creatures in a 2D grid-based environment. Each creature is controlled by a neural network, which dictates its movement and decision to reproduce. The creatures consume energy while moving, gain energy by eating food, and reproduce by splitting their energy with their offspring. The environment simulates the process of evolution with mutation and survival mechanics.
@@ -6,11 +8,7 @@ This project simulates a population of evolving creatures in a 2D grid-based env
 
 ## Demo
 
-Here’s a demonstration of the simulation in action on YouTube:
-
-<a href="https://www.youtube.com/watch?v=TXiBkSEfN9o" target="_blank">
-  <img src="media/image.jpg" alt="YouTube Video" width="400"/>
-</a>
+Here’s a demonstration of the simulation in action [on YouTube](https://www.youtube.com/watch?v=TXiBkSEfN9o):
 
 ---
 
