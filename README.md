@@ -1,4 +1,6 @@
-[![Watch on YouTube](https://img.youtube.com/vi/TXiBkSEfN9o/maxresdefault.jpg)](https://www.youtube.com/watch?v=TXiBkSEfN9o)
+<a href="https://www.youtube.com/watch?v=TXiBkSEfN9o" target="_blank">
+  <img src="media/image.jpg" alt="YouTube Video" width="640"/>
+</a>
 
 # Creature Simulation
 
