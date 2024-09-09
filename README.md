@@ -9,7 +9,7 @@ This project simulates a population of evolving creatures in a 2D grid-based env
 Here’s a demonstration of the simulation in action on YouTube:
 
 <a href="https://www.youtube.com/watch?v=TXiBkSEfN9o" target="_blank">
-  <img src="media/image.png" alt="YouTube Video" width="400"/>
+  <img src="media/image.jpg" alt="YouTube Video" width="400"/>
 </a>
 
 Alternatively, you can [watch the video](https://www.youtube.com/watch?v=TXiBkSEfN9o) directly on YouTube.
