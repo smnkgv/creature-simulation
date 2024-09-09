@@ -50,7 +50,7 @@ Make sure you have the following installed on your machine:
 Clone the repository from GitHub:
 
 ```bash
-git clone https://github.com/your-username/creature-simulation.git
+git clone https://github.com/smnkgv/creature-simulation
 cd creature-simulation
 ```
 
