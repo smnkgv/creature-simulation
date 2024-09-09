@@ -12,8 +12,6 @@ Here’s a demonstration of the simulation in action on YouTube:
   <img src="media/image.jpg" alt="YouTube Video" width="400"/>
 </a>
 
-Alternatively, you can [watch the video](https://www.youtube.com/watch?v=TXiBkSEfN9o) directly on YouTube.
-
 ---
 
 ## Features
